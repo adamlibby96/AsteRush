@@ -13,3 +13,10 @@ Group: Keawe Bridges, Adam Libby, and Isaac Peterson
 - WASD: ship movement
 - SpaceBar: fire
 - NUMBERS: Upgrade Ship
+
+# Notes
+
+- only works in editor
+- doesn't work with controllers 
+- couldn't get the host/join game functionality working
+
