@@ -1,8 +1,15 @@
 # AsteRush
 
-Developed with Unreal Engine 4
+Group: Keawe Bridges, Adam Libby, and Isaac Peterson
 
-# Sources for 3D Models
+# Directions
 
-Black and Orange Ship: https://sketchfab.com/3d-models/death-row-spaceship-712057c4562d413594beb723f6ec6dd6 
-Red Ship: https://sketchfab.com/3d-models/spaceship-1d2f6d0c373e497c83e7846ec3f5fad6 
+- open AdamsMap in Content/Maps/AdamsMap (should be default)
+- set player count to desired amount
+- make sure its running on a dedicated server
+
+# Controls
+
+- WASD: ship movement
+- SpaceBar: fire
+- NUMBERS: Upgrade Ship
